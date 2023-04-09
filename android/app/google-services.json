@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "538430746770",
+    "project_id": "quizztone-370812",
+    "storage_bucket": "quizztone-370812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538430746770:android:a3e262515c6a431292b64b",
+        "android_client_info": {
+          "package_name": "com.quizz.tone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538430746770-ne76qbplhjjbspp4d8vlfvtoi9ap31mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quizz.tone",
+            "certificate_hash": "9daf146a003dfd7d4e6973533570e6e7356a4be8"
+          }
+        },
+        {
+          "client_id": "538430746770-127hkl3sbrtfm84iu33ds6hbp7uankkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0mTFSKX41R1vlW28u361hPV5MECqRbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538430746770-127hkl3sbrtfm84iu33ds6hbp7uankkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

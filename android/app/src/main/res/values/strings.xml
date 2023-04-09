@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizz Tone</string>
+
+    <string name="facebook_app_id">1141488453143919</string>
+    <string name="fb_login_protocol_scheme">fb1141488453143919</string>
+    <string name="facebook_client_token">8988f59b1a8e9db8c5a2d4f6e92b2552</string>
+
+</resources>
